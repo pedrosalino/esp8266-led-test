@@ -1,0 +1,4 @@
+tasks:
+  - name: Install PlatformIO
+    init: |
+      pip install --user platformio
